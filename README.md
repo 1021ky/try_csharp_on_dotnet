@@ -156,7 +156,8 @@ vaivailx@MacBook-Pro-2 try_csharp_on_dotnet %
 
 https://github.com/Redth/dotnet-maui-check
 
-ためしてみる
+#### ためしてみる
+
 MAUIは環境の要件としてVisual Studio For Macをいれていて、かつなんかいろいろインストールしてとかいてあった。
 が、このツールは、そういったものをもろもろチェックしてインストールしてくれるらしい。
 じゃあ、Visual Studio For Macいれなくても、これでいけるんじゃないか？と思い、
@@ -240,3 +241,7 @@ vaivailx@MacBook-Pro-2 try_csharp_on_dotnet %
 
 気づけば終わっていた。
 
+が、[サンプルアプリ](https://github.com/davidortinau/WeatherTwentyOne)をクローンしてビルドをするもエラー。
+ビルド`dotnet build src/WeatherTwentyOne.sln`をするもエラーでまくり。
+試行錯誤したが、もし動くのなら試してみたいというところなので、いったん手を止める。
+そもそもF#をさわりたくて環境構築し始めたわけで。
