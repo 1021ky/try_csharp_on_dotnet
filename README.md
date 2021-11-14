@@ -229,3 +229,14 @@ Thanks for choosing .NET MAUI!
 
 結構時間かかるね。
 10分以上は経っているな
+
+```zsh
+✔ Congratulations, everything looks great!
+
+Press enter to exit...
+
+vaivailx@MacBook-Pro-2 try_csharp_on_dotnet %
+```
+
+気づけば終わっていた。
+
