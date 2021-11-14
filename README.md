@@ -10,6 +10,8 @@ macOS Monterey 12.0.1（21A559）
 
 ## やったこと
 
+### .NETインストール
+
 https://dotnet.microsoft.com/download からSDKをDLする。
 DLページに行くとDirect Linkがあったので、curlでとる。
 
@@ -72,3 +74,5 @@ vaivailx@MacBook-Pro-2 try_csharp_on_dotnet % dotnet --version
 6.0.100
 vaivailx@MacBook-Pro-2 try_csharp_on_dotnet %
 ```
+
+### Hello World
